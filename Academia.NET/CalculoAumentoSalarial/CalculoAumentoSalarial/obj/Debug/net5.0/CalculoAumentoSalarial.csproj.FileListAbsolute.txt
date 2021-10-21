@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\CalculoAumentoSalarial.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\CalculoAumentoSalarial.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\CalculoAumentoSalarial.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\CalculoAumentoSalarial.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\CalculoAumentoSalarial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\ref\CalculoAumentoSalarial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\bin\Debug\net5.0\CalculoAumentoSalarial.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\ref\CalculoAumentoSalarial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\CalculoAumentoSalarial\CalculoAumentoSalarial\obj\Debug\net5.0\CalculoAumentoSalarial.genruntimeconfig.cache

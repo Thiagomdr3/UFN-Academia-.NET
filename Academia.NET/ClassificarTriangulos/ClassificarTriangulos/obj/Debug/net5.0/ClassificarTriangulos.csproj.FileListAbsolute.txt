@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ClassificarTriangulos.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ClassificarTriangulos.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ClassificarTriangulos.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ClassificarTriangulos.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ClassificarTriangulos.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ref\ClassificarTriangulos.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\bin\Debug\net5.0\ClassificarTriangulos.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ref\ClassificarTriangulos.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClassificarTriangulos\ClassificarTriangulos\obj\Debug\net5.0\ClassificarTriangulos.genruntimeconfig.cache
