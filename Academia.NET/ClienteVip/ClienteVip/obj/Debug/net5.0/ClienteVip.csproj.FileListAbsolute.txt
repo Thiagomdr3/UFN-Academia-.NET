@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ClienteVip.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ClienteVip.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ClienteVip.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ClienteVip.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ClienteVip.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ref\ClienteVip.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\bin\Debug\net5.0\ClienteVip.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ref\ClienteVip.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ClienteVip\ClienteVip\obj\Debug\net5.0\ClienteVip.genruntimeconfig.cache
