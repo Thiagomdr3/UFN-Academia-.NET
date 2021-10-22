@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\UsandoTernario.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\UsandoTernario.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\UsandoTernario.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\UsandoTernario.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\UsandoTernario.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\ref\UsandoTernario.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\bin\Debug\net5.0\UsandoTernario.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\ref\UsandoTernario.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\UsandoTernario\UsandoTernario\obj\Debug\net5.0\UsandoTernario.genruntimeconfig.cache
