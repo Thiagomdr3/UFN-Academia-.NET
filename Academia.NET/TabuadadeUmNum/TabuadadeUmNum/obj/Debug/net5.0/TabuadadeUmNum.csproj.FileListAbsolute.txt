@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\TabuadadeUmNum.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\TabuadadeUmNum.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\TabuadadeUmNum.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\TabuadadeUmNum.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\TabuadadeUmNum.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\ref\TabuadadeUmNum.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\bin\Debug\net5.0\TabuadadeUmNum.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\ref\TabuadadeUmNum.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\TabuadadeUmNum\TabuadadeUmNum\obj\Debug\net5.0\TabuadadeUmNum.genruntimeconfig.cache

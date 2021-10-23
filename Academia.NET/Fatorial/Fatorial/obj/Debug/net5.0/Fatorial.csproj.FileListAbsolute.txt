@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\ref\Fatorial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\ref\Fatorial.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.genruntimeconfig.cache

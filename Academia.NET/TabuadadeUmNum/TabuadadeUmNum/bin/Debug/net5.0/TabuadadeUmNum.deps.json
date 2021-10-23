@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TabuadadeUmNum/1.0.0": {
+        "runtime": {
+          "TabuadadeUmNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TabuadadeUmNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

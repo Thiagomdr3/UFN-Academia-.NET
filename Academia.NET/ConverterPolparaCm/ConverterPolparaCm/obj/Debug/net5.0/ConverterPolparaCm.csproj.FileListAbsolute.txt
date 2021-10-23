@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ConverterPolparaCm.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ConverterPolparaCm.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ConverterPolparaCm.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ConverterPolparaCm.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ConverterPolparaCm.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ref\ConverterPolparaCm.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\bin\Debug\net5.0\ConverterPolparaCm.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ref\ConverterPolparaCm.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ConverterPolparaCm\ConverterPolparaCm\obj\Debug\net5.0\ConverterPolparaCm.genruntimeconfig.cache

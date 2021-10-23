@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\DesafioPrimeiraSemana.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\DesafioPrimeiraSemana.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\DesafioPrimeiraSemana.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\DesafioPrimeiraSemana.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\DesafioPrimeiraSemana.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\ref\DesafioPrimeiraSemana.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\bin\Debug\net5.0\DesafioPrimeiraSemana.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\ref\DesafioPrimeiraSemana.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DesafioPrimeiraSemana\DesafioPrimeiraSemana\obj\Debug\net5.0\DesafioPrimeiraSemana.csproj.AssemblyReference.cache

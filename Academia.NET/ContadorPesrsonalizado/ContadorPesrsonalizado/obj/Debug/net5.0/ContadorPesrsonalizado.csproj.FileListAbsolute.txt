@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ContadorPesrsonalizado.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ContadorPesrsonalizado.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ContadorPesrsonalizado.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ContadorPesrsonalizado.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ContadorPesrsonalizado.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ref\ContadorPesrsonalizado.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\bin\Debug\net5.0\ContadorPesrsonalizado.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ref\ContadorPesrsonalizado.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\ContadorPesrsonalizado\ContadorPesrsonalizado\obj\Debug\net5.0\ContadorPesrsonalizado.genruntimeconfig.cache

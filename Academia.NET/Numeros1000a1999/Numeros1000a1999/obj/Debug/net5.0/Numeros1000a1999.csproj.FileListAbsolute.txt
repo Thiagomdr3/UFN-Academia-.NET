@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\Numeros1000a1999.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\Numeros1000a1999.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\Numeros1000a1999.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\Numeros1000a1999.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\Numeros1000a1999.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\ref\Numeros1000a1999.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\bin\Debug\net5.0\Numeros1000a1999.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\ref\Numeros1000a1999.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Numeros1000a1999\Numeros1000a1999\obj\Debug\net5.0\Numeros1000a1999.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\DivisiveisPorx.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\DivisiveisPorx.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\DivisiveisPorx.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\DivisiveisPorx.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\DivisiveisPorx.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\ref\DivisiveisPorx.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\bin\Debug\net5.0\DivisiveisPorx.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\ref\DivisiveisPorx.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\DivisiveisPorx\DivisiveisPorx\obj\Debug\net5.0\DivisiveisPorx.genruntimeconfig.cache
