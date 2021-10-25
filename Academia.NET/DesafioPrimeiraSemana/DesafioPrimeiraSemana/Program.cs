@@ -6,21 +6,71 @@ namespace DesafioPrimeiraSemana
     {
         static void Main(string[] args)
         {
-            double result = 1000;
+            int numeradorEditavel =1000, iEditavel=0, limiteEditavel = 50;
+            double denominadorEditavel = 1;
+            double[] numeros = new double[limiteEditavel];
 
-            for (int i = 2, u = 997; i <= 50; i++, u = u - 3)
+            MostrarCalculo(iEditavel,numeradorEditavel,limiteEditavel, denominadorEditavel, numeros);
+
+            Etapa2( limiteEditavel, numeros);
+
+
+
+            static void MostrarCalculo(int iEditavel, int numeradorEditavel, int limiteEditavel, double denominadorEditavel, double[] numeros)
             {
-                if (i % 2 == 0)
+                int i = iEditavel, numerador, limite = limiteEditavel;
+                double denominador;
+                for (numerador = numeradorEditavel, denominador = denominadorEditavel; denominador <= limite; numerador -= 3, denominador++)
                 {
-                    result -= u/i ;
+                    if (denominador % 2 != 0)
+                    {
+                        Console.Write("+({0}/{1} = {2})", numerador, denominador, Math.Round((numerador / denominador), 2));
+                        numeros[Convert.ToInt32(denominador) - 1] = Math.Round((numerador / denominador), 2);
+                    }
+                    else
+                    {
+                        Console.Write("-({0}/{1} = {2})", numerador, denominador, Math.Round((numerador / denominador), 2));
+                        numeros[Convert.ToInt32(denominador) - 1] = Math.Round((numerador / denominador), 2);
+                    }
                 }
-                else
+                Console.Write(" = x ");
+                Console.WriteLine("\n____________________________________________________________________________");
+
+                
+                foreach (double index in numeros)
                 {
-                    result += u / i;
-                }
+                    if (i % 2 == 0)
+                    {
+                        Console.Write("+(" + index + ")");
+                    }
+                    else
+                    {
+                        Console.Write("-(" + index + ")");
+                    }
+                    i++;
+                }                             
             }
 
-            Console.WriteLine(result);
+            static void Etapa2( int limite, double[] numeros)
+            {
+                int i = 0;
+                double soma = 0;
+                Console.Write(" = x ");
+                Console.WriteLine("\n____________________________________________________________________________");
+
+                for (int index = 0; index < limite; index++)
+                {
+                    Console.Write("+({0})", Math.Round(numeros[index] - numeros[index + 1], 2));
+                    soma += Math.Round(numeros[index] - numeros[index + 1], 2);
+                    numeros[i] = Math.Round(numeros[index] - numeros[index + 1], 2);
+                    index++;
+                    i++;
+                }
+
+                Console.Write(" = x ");
+                Console.WriteLine("\n____________________________________________________________________________");
+                Console.WriteLine("x = "+soma);
+            }
         }
     }
 }
