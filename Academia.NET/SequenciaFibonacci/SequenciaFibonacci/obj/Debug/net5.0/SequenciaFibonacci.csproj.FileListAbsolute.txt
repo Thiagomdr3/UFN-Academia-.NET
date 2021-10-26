@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\SequenciaFibonacci.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\SequenciaFibonacci.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\SequenciaFibonacci.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\SequenciaFibonacci.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\SequenciaFibonacci.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\ref\SequenciaFibonacci.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net5.0\SequenciaFibonacci.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\ref\SequenciaFibonacci.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net5.0\SequenciaFibonacci.genruntimeconfig.cache
