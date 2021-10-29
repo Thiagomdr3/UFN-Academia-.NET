@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\VetorUnidimensional.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\VetorUnidimensional.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\VetorUnidimensional.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\VetorUnidimensional.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\VetorUnidimensional.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\ref\VetorUnidimensional.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\bin\Debug\net5.0\VetorUnidimensional.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\ref\VetorUnidimensional.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\VetorUnidimensional\VetorUnidimensional\obj\Debug\net5.0\VetorUnidimensional.genruntimeconfig.cache

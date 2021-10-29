@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\exercicios28_10_2021.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\exercicios28_10_2021.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\exercicios28_10_2021.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\exercicios28_10_2021.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\exercicios28_10_2021.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\ref\exercicios28_10_2021.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\bin\Debug\net5.0\exercicios28_10_2021.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\ref\exercicios28_10_2021.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\exercicios28_10_2021\exercicios28_10_2021\obj\Debug\net5.0\exercicios28_10_2021.genruntimeconfig.cache
