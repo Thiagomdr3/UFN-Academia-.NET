@@ -1,0 +1,16 @@
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\Exercicios31-10-2021.exe
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\Exercicios31-10-2021.deps.json
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\Exercicios31-10-2021.runtimeconfig.json
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\Exercicios31-10-2021.runtimeconfig.dev.json
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\Exercicios31-10-2021.dll
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\ref\Exercicios31-10-2021.dll
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\bin\Debug\net5.0\Exercicios31-10-2021.pdb
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.csproj.AssemblyReference.cache
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.AssemblyInfoInputs.cache
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.AssemblyInfo.cs
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.dll
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\ref\Exercicios31-10-2021.dll
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.pdb
+C:\Users\Vaio\Documents\Projetos\Blazor\Exercicios31-10-2021\obj\Debug\net5.0\Exercicios31-10-2021.genruntimeconfig.cache

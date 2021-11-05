@@ -18,6 +18,7 @@ b. escreve: |40|0|22|7|3|9|21|63|31|7| */
             int[] numeros = new int[10];
             int[] pares, impares;
             int p = 0, imp = 0;
+
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Digite um numero para o indice " + (i + 1));

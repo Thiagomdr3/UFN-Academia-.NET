@@ -1,0 +1,16 @@
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\Aula29-10-21.exe
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\Aula29-10-21.deps.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\Aula29-10-21.runtimeconfig.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\Aula29-10-21.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\Aula29-10-21.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\ref\Aula29-10-21.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\bin\Debug\net5.0\Aula29-10-21.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\ref\Aula29-10-21.dll
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.pdb
+C:\Users\Vaio\Desktop\DEV\Atos\Academia.NET\Aula29-10-21\Aula29-10-21\obj\Debug\net5.0\Aula29-10-21.genruntimeconfig.cache
