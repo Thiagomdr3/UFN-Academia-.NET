@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/img/Atos.jpg"height="200" width="200" />
+</p> 
+<p align="center"> <img src="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/img/UFN.jpg" height="300" width="300"/>
+</p>
+
 # Curso intensivo de .NET
 
 ### *Ministrado pelos professores:*
