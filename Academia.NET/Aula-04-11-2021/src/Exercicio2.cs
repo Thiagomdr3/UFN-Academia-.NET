@@ -18,6 +18,8 @@ namespace Aula_04_11_2021.src
         {
             Random rdm = new();
             int[] vetor = new int[10];
+            int[] vetorPar = new int[5];
+            int[] vetorImpar = new int[5];
             int opcao = 0;
             for (int i = 0; i < 10; i++)
             {
@@ -51,7 +53,24 @@ namespace Aula_04_11_2021.src
                     ExibirVetores.Inversa(vetor);
                     break;
                 case 2:
-                    ExibirVetores.DecomporIndice(vetor);
+                    vetorPar = ExibirVetores.DecomporIndice(vetor, 2);
+                    int iPar = 0;
+                    Console.WriteLine("_____________________\n" +
+                        "Vetor Par");
+                    foreach (int vPar in vetorPar)
+                    {
+                        Console.WriteLine($" valor vetor par = {vPar} valor original {vetor[iPar]} no indice {iPar} ");
+                        iPar += 2;
+                    }
+                    vetorImpar = ExibirVetores.DecomporIndice(vetor, 1);
+                    int iImpar = 1;
+                    Console.WriteLine("_______________________\n" +
+                        "Vetor Impar:");
+                    foreach (int vImpar in vetorImpar)
+                    {
+                        Console.WriteLine($" valor no vetor par = {vImpar} valor original {vetor[iImpar]} no indice= {iImpar} ");
+                        iImpar += 2;
+                    }
                     break;
                 case 3:
                     ExibirVetores.DecomporValor(vetor);

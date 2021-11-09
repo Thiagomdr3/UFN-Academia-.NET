@@ -16,7 +16,7 @@ namespace Aula_04_11_2021.src
             }
         }
 
-        public static void DecomporIndice(int [] vetor)
+        public static int[] DecomporIndice(int [] vetor, int parImpar)
         {
             int[] vPar = new int[5];
             int[] vImpar = new int[5];
@@ -34,44 +34,36 @@ namespace Aula_04_11_2021.src
                     vImpar[u] = vetor[i];
                     u++;
                 }
+
             }
 
-            int iPar = 0;
-            Console.WriteLine("_____________________\n" +
-                "Vetor Par");
-            foreach (int vetorPar in vPar)
+            if (parImpar == 1)
             {
-                Console.WriteLine($" valor vetor par = {vetorPar} valor original {vetor[iPar]} no indice {iPar} ");
-                iPar += 2;
+                return vImpar;
             }
-
-            int iImpar = 1;
-            Console.WriteLine("_______________________\n" +
-                "Vetor Impar:");
-            foreach (int vetorImpar in vImpar)
+            else
             {
-                Console.WriteLine($" valor no vetor par = {vetorImpar} valor original {vetor[iImpar]} no indice= {iImpar} ");
-                iImpar += 2;
+                return vPar;
             }
+            
         }
 
         public static void DecomporValor(int[] vetor)
         {
-            //Array.Empty<int>();
-            int[] vPar = new int[0];
-            int[] vImpar = new int[0];
+            int[] vPar = Array.Empty<int>();
+            int[] vImpar = Array.Empty<int>();
 
-            for(int i = 0; i<10; i++)
+            for (int i = 0; i<10; i++)
             {
                 if (vetor[i] % 2 == 0)
                 {
                     Array.Resize(ref vPar, vPar.Length + 1);
-                    vPar[vPar.Length - 1] = vetor[i];
+                    vPar[^1] = vetor[i];
                 }
                 else
                 {
                     Array.Resize(ref vImpar, vImpar.Length + 1);
-                    vImpar[vImpar.Length - 1] = vetor[i];
+                    vImpar[^1] = vetor[i];
                 }
             }
             Console.WriteLine("_____________________\n" +

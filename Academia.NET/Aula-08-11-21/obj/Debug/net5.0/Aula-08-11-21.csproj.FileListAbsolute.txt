@@ -1,0 +1,16 @@
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\Aula-08-11-21.exe
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\Aula-08-11-21.deps.json
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\Aula-08-11-21.runtimeconfig.json
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\Aula-08-11-21.runtimeconfig.dev.json
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\Aula-08-11-21.dll
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\ref\Aula-08-11-21.dll
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\bin\Debug\net5.0\Aula-08-11-21.pdb
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.csprojAssemblyReference.cache
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.AssemblyInfoInputs.cache
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.AssemblyInfo.cs
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.csproj.CoreCompileInputs.cache
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.dll
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\ref\Aula-08-11-21.dll
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.pdb
+D:\Thiago\Devolop\Projetos\C#\Console\Academia.NET Atos\UFN-Academia-.NET\Academia.NET\Aula-08-11-21\obj\Debug\net5.0\Aula-08-11-21.genruntimeconfig.cache
