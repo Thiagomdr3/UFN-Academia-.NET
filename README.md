@@ -27,23 +27,23 @@
 - [ ] *Tipos Abstratos de Dados;* 
 - [ ] *Definição de estrutura abstrata;* 
 - [ ] *Pré e pós condições;* 
-- [ ] *Introdução a orientação a objetos utilizando C#;* 
-- [ ] *Classes, objeto, encapsulamento, herança, classe abstrata, método abstrato, polimorfismos, sobrecarga de métodos e construtores, sobrescrita de métodos;* 
-- [ ] *Sintaxe da linguagem e os recursos do C#;* 
+- [x] *Introdução a orientação a objetos utilizando C#;* 
+- [x] *Classes, objeto, encapsulamento, herança, classe abstrata, método abstrato, polimorfismos, sobrecarga de métodos e construtores, sobrescrita de métodos;* 
+- [x] *Sintaxe da linguagem e os recursos do C#;* 
 - [ ] *Utilização métodos, manipulação exceções;* 
 - [ ] *Estrutura básica e os elementos essenciais de uma aplicação para desktop;* 
 - [ ] *Criação de classes, definição e implementação interfaces e criação e uso coleções genéricas;* 
 - [ ] *Herança para criar uma hierarquia de classe, estender uma classe do .NET Framework, criar métodos  e classes genéricas;* 
 - [ ] *Modelagem de dados;* 
-- [ ] *SQL: Comandos DML e DDL;* 
-- [ ] *Criação de Trigger e Procedures;* 
+- [x] *SQL: Comandos DML e DDL;* 
+- [x] *Criação de Trigger e Procedures;* 
 - [ ] *Transações, Schedules e Jobs;* 
 - [ ] *PLSQL, packages;*     
-- [ ] *HTML, CSS e Javascript;* 
+- [x] *HTML, CSS e Javascript;* 
 - [ ] *JQuery e Frameworks JS;* 
 - [ ] *Microsoft .NET WebForms,  eventos e componentes;* 
-- [ ] *Acesso a Dados com ADO.Net;* 
-- [ ] *Arquitetura do ADO.Net;*  
+- [x] *Acesso a Dados com ADO.Net;* 
+- [x] *Arquitetura do ADO.Net;*  
 - [ ] *NameSpace System.Data;* 
 - [ ] *Conexões com Bancos de Dados;* 
 - [ ] *Controle de Transações; Execução de comandos SQL e procedimentos armazenados;*     
